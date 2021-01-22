@@ -1,0 +1,34 @@
+{
+  "books": [
+    {
+      "text": "To Kill a Mockingbird",
+      "description": "To Kill a Mockingbird is a novel by the American author Harper Lee. It was published in 1960 and, instantly successful in the United States, it is widely read in high schools and middle schools. To Kill a Mockingbird has become a classic of modern American literature, winning the Pulitzer Prize",
+      "author": "Harper Lee",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "text": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "description": "Pride and Prejudice is an 1813 romantic novel of manners written by Jane Austen. The novel follows the character development of Elizabeth Bennet, the dynamic protagonist of the book who learns about the repercussions of hasty judgments and comes to appreciate the difference between superficial goodness and actual goodness. Its humour lies in its honest depiction of manners, education, marriage, and money during the Regency era in Great Britain."
+    },
+    {
+      "id": 3,
+      "text": "Dracula",
+      "author": "Bram Stoker",
+      "description": "Dracula is an 1897 Gothic horror novel by Irish author Bram Stoker. It introduced the character of Count Dracula and established many conventions of subsequent vampire fantasy.[1] The novel tells the story of Dracula's attempt to move from Transylvania to England so that he may find new blood and spread the undead curse, and of the battle between Dracula and a small group of people led by Professor Abraham Van Helsing.."
+    },
+    {
+      "id": 4,
+      "text": "Gulliver's travels",
+      "author": "Jonathan Swift",
+      "description": "Gulliver's Travels, or Travels into Several Remote Nations of the World. In Four Parts. By Lemuel Gulliver, First a Surgeon, and then a Captain of Several Ships is a 1726 prose satire[1][2] by the Irish writer and clergyman Jonathan Swift, satirising both human nature and the 'travellers' tales' literary subgenre. It is Swift's best known full-length work, and a classic of English literature. Swift claimed that he wrote Gulliver's Travels 'to vex the world rather than divert it."
+    },
+    {
+      "id": 5,
+      "text": "The Bell Jar",
+      "author": "Sylvia Plath",
+      "description": "The Bell Jar is the only novel written by the American writer and poet Sylvia Plath. Originally published under the pseudonym 'Victoria Lucas' in 1963, the novel is semi-autobiographical, with the names of places and people changed. The book is often regarded as a roman à clef because the protagonist's descent into mental illness parallels Plath's own experiences with what may have been clinical depression or bipolar II disorder. Plath died by suicide a month after its first UK publication"
+    }
+  ]
+}
